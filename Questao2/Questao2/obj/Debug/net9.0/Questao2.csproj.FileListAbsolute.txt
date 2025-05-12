@@ -1,0 +1,14 @@
+C:\Users\Rafael\Desktop\Questao2\Questao2\bin\Debug\net9.0\Questao2.exe
+C:\Users\Rafael\Desktop\Questao2\Questao2\bin\Debug\net9.0\Questao2.deps.json
+C:\Users\Rafael\Desktop\Questao2\Questao2\bin\Debug\net9.0\Questao2.runtimeconfig.json
+C:\Users\Rafael\Desktop\Questao2\Questao2\bin\Debug\net9.0\Questao2.dll
+C:\Users\Rafael\Desktop\Questao2\Questao2\bin\Debug\net9.0\Questao2.pdb
+C:\Users\Rafael\Desktop\Questao2\Questao2\obj\Debug\net9.0\Questao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\Questao2\Questao2\obj\Debug\net9.0\Questao2.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Questao2\Questao2\obj\Debug\net9.0\Questao2.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Questao2\Questao2\obj\Debug\net9.0\Questao2.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Questao2\Questao2\obj\Debug\net9.0\Questao2.dll
+C:\Users\Rafael\Desktop\Questao2\Questao2\obj\Debug\net9.0\refint\Questao2.dll
+C:\Users\Rafael\Desktop\Questao2\Questao2\obj\Debug\net9.0\Questao2.pdb
+C:\Users\Rafael\Desktop\Questao2\Questao2\obj\Debug\net9.0\Questao2.genruntimeconfig.cache
+C:\Users\Rafael\Desktop\Questao2\Questao2\obj\Debug\net9.0\ref\Questao2.dll

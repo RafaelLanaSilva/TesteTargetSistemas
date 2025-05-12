@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CyA3o2/zfJA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rafael\\Desktop\\Questao3\\Questao3\\Questao3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafael\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
